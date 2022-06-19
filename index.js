@@ -121,7 +121,7 @@ function animation(ff) {
   var c = document.querySelector(d);
   c.classList.add("pressed");
 
-  let timeout = setTimeout(cd, 1000,c);
+  let timeout = setTimeout(cd, 100,c);
 
 }
 
